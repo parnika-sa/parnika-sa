@@ -14,5 +14,3 @@ Hi, I’m Ankit Maurya — a Backend Executive and final-year BCA student with a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parnika-sa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
