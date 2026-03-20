@@ -30,8 +30,9 @@ class AnkitMaurya:
         self.role        = "Backend Executive & Automation Architect"
         self.education   = "Final-Year BCA Student"
         self.org         = "NeuralAutomate Labs 🧬"
-        self.location    = "India 🇮🇳"
+        self.location    = "Chandigarh, India 🇮🇳"
         self.portfolio   = "https://ankit9322.vercel.app"
+        self.google_dev  = "https://g.dev/parnika-sa"
         self.mindset     = "Systems over surface-level code 🧠"
         self.mission     = "Build automation-first, reliable backend systems"
 
@@ -119,6 +120,18 @@ print(me.philosophy())
 
 ---
 
+## 🏅 Certifications & Profiles
+
+<div align="center">
+
+[![Google Developer](https://img.shields.io/badge/Google_Developer-Premium_Member-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/parnika-sa)
+[![Gemini Ready](https://img.shields.io/badge/Gemini-Enterprise_Agent_Ready-8E44AD?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/parnika-sa)
+[![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-Certified_User-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://g.dev/parnika-sa)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -156,6 +169,7 @@ print(me.philosophy())
 </picture>
 
 </div>
+
 ---
 
 ## ✍️ Random Dev Quote
@@ -175,6 +189,7 @@ print(me.philosophy())
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankit9322.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitmaurya4681)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techlover._.ig)
+[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/parnika-sa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parnika-sa)
 
 </div>
