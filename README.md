@@ -1,21 +1,181 @@
-# 💫 About Me:
-Hi, I’m Ankit Maurya — a final-year BCA student and Backend Executive focused on building reliable, scalable, and automation-first backend systems.<br>My work centers on designing process-oriented backend solutions that improve system efficiency, reduce operational overhead, and enable consistency at scale. I approach backend engineering from a systems perspective—prioritizing correctness, repeatability, and long-term maintainability over quick fixes.<br><br>🧩 Technical Focus<br><br>Backend Operations & Internal Platforms<br>Python-Based Automation (data pipelines, scraping, process orchestration)<br>Workflow & CRM Systems (Zoho, Google Sheets, Forms, REST APIs)<br>Data Integrity, Cleanup, and Reliability Engineering<br>I enjoy breaking down complex or inefficient workflows, understanding their failure points, and rebuilding them into deterministic, testable pipelines. My mindset aligns closely with backend engineering principles used in large-scale systems: clear contracts, predictable behavior, and operational visibility.<br>Currently, I am deepening my understanding of data structures, backend architecture, APIs, and scalable system design, with the goal of contributing to high-impact backend teams working on real-world scale problems.<br><br>🚀 Focused on fundamentals<br>🧠 Systems over surface-level code<br>⚙️ Automation, reliability, and scale
+<div align="center">
 
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Maurya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Automation%20Architect%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techlover._.ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitmaurya4681) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:expertankitmaurya@gmail.com) 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Ankit+%F0%9F%91%8B;Backend+Executive+%26+Automation+Enthusiast;Building+Reliable+%26+Scalable+Systems;Python+%7C+Node.js+%7C+Django+%7C+Flask;Turning+Chaos+into+Deterministic+Pipelines+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=plastic&logo=windi-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parnika-sa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parnika-sa&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parnika-sa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=parnika-sa&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/parnika-sa?style=for-the-badge&color=orange&labelColor=black&label=FOLLOWERS" alt="Followers"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parnika-sa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+```python
+class AnkitMaurya:
+    def __init__(self):
+        self.name        = "Ankit Maurya"
+        self.role        = "Backend Executive & Automation Architect"
+        self.education   = "Final-Year BCA Student"
+        self.location    = "India 🇮🇳"
+        self.mindset     = "Systems over surface-level code 🧠"
+        self.mission     = "Build automation-first, reliable backend systems"
+
+    def current_focus(self):
+        return [
+            "📐 Backend Architecture & System Design",
+            "🐍 Python Automation — Pipelines, Scrapers, Orchestration",
+            "🔗 REST APIs, CRMs, Workflow Automation (n8n, Make.io)",
+            "🗄️  Data Integrity, Cleanup & Reliability Engineering",
+            "📊 DSA & Scalable System Fundamentals",
+        ]
+
+    def philosophy(self):
+        return "Correctness → Repeatability → Maintainability"
+
+me = AnkitMaurya()
+```
+
+> *"I don't just write code — I engineer systems that are predictable, testable, and built to last."*
+
+---
+
+## 🚀 What I Do
+
+<div align="center">
+
+| 🧩 Backend Operations | 🤖 Automation | 📊 Data & CRM |
+|:---:|:---:|:---:|
+| Internal platform design | Python pipelines | Zoho & Sheets |
+| API architecture | Process orchestration | Data cleanup |
+| System reliability | n8n & Make.io flows | REST integrations |
+| Scalable workflows | Web scraping | Form automation |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Automation & Tools**
+
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.io-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**APIs & Integrations**
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parnika-sa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6EC7&text_color=ffffff" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnika-sa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=parnika-sa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6EC7&fire=FF6EC7&currStreakLabel=00D4FF" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parnika-sa/parnika-sa/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parnika-sa/parnika-sa/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parnika-sa/parnika-sa/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> ⚙️ **To enable the snake:** Go to your repo → Actions → Enable "Generate Snake" workflow. [Setup Guide →](https://github.com/Platane/snk)
+
+---
+
+## 🎵 Spotify — Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
+
+> 🎧 **To enable:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel and link your Spotify account.
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*⭐ If you find my work interesting, drop a star! It motivates me to keep building.*
+
+</div>
