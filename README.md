@@ -155,22 +155,7 @@ print(me.philosophy())
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parnika-sa/parnika-sa/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ⚙️ **Snake enable karne ke liye:** Repo → Actions → Enable "Generate Snake" workflow → [Setup Guide](https://github.com/Platane/snk)
-
 </div>
-
----
-
-## 🎵 Spotify — Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
-
-> 🎧 **Enable karne ke liye:** [novatorem](https://github.com/novatorem/novatorem) ko Vercel pe deploy karo + Spotify account link karo
-
-</div>
-
 ---
 
 ## ✍️ Random Dev Quote
