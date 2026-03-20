@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Maurya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Automation%20Architect%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Banner — increased height to fix text overflow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ankit%20Maurya&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Automation%20Architect%20%7C%20Systems%20Thinker&descAlignY=58&descSize=17&descColor=fff" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Ankit+%F0%9F%91%8B;Backend+Executive+%26+Automation+Enthusiast;Building+Reliable+%26+Scalable+Systems;Python+%7C+Node.js+%7C+Django+%7C+Flask;Turning+Chaos+into+Deterministic+Pipelines+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=Hey!+I'm+Ankit+Maurya+%F0%9F%91%8B;Backend+Executive+%26+Automation+Architect;Final-Year+BCA+%40+NeuralAutomate+Labs;Python+%7C+Node.js+%7C+Django+%7C+Flask+%7C+n8n;Turning+Chaos+into+Deterministic+Pipelines+%E2%9A%99%EF%B8%8F;Systems+over+surface-level+code+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=parnika-sa&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=parnika-sa&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/parnika-sa?style=for-the-badge&color=orange&labelColor=black&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/parnika-sa?style=for-the-badge&color=orange&labelColor=black&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -27,7 +29,9 @@ class AnkitMaurya:
         self.name        = "Ankit Maurya"
         self.role        = "Backend Executive & Automation Architect"
         self.education   = "Final-Year BCA Student"
+        self.org         = "NeuralAutomate Labs 🧬"
         self.location    = "India 🇮🇳"
+        self.portfolio   = "https://ankit9322.vercel.app"
         self.mindset     = "Systems over surface-level code 🧠"
         self.mission     = "Build automation-first, reliable backend systems"
 
@@ -35,15 +39,18 @@ class AnkitMaurya:
         return [
             "📐 Backend Architecture & System Design",
             "🐍 Python Automation — Pipelines, Scrapers, Orchestration",
-            "🔗 REST APIs, CRMs, Workflow Automation (n8n, Make.io)",
+            "🔗 REST APIs, CRMs & Workflow Automation (n8n, Make.io)",
             "🗄️  Data Integrity, Cleanup & Reliability Engineering",
             "📊 DSA & Scalable System Fundamentals",
+            "🌐 Digital Marketing — SEO, Google Ads, Meta Ads",
         ]
 
     def philosophy(self):
         return "Correctness → Repeatability → Maintainability"
 
 me = AnkitMaurya()
+print(me.philosophy())
+# Output: "Correctness → Repeatability → Maintainability"
 ```
 
 > *"I don't just write code — I engineer systems that are predictable, testable, and built to last."*
@@ -54,12 +61,12 @@ me = AnkitMaurya()
 
 <div align="center">
 
-| 🧩 Backend Operations | 🤖 Automation | 📊 Data & CRM |
-|:---:|:---:|:---:|
-| Internal platform design | Python pipelines | Zoho & Sheets |
-| API architecture | Process orchestration | Data cleanup |
-| System reliability | n8n & Make.io flows | REST integrations |
-| Scalable workflows | Web scraping | Form automation |
+| 🧩 Backend Operations | 🤖 Automation | 📊 Data & CRM | 🌐 Digital Marketing |
+|:---:|:---:|:---:|:---:|
+| Internal platform design | Python pipelines | Zoho & Sheets | SEO & Content |
+| API architecture | Process orchestration | Data cleanup | Google Ads |
+| System reliability | n8n & Make.io flows | REST integrations | Meta Ads |
+| Scalable workflows | Web scraping | Form automation | WordPress / Elementor |
 
 </div>
 
@@ -101,6 +108,13 @@ me = AnkitMaurya()
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+**Digital Marketing**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+
 </div>
 
 ---
@@ -121,6 +135,16 @@ me = AnkitMaurya()
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parnika-sa&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -131,9 +155,9 @@ me = AnkitMaurya()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parnika-sa/parnika-sa/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-</div>
+> ⚙️ **Snake enable karne ke liye:** Repo → Actions → Enable "Generate Snake" workflow → [Setup Guide](https://github.com/Platane/snk)
 
-> ⚙️ **To enable the snake:** Go to your repo → Actions → Enable "Generate Snake" workflow. [Setup Guide →](https://github.com/Platane/snk)
+</div>
 
 ---
 
@@ -143,7 +167,7 @@ me = AnkitMaurya()
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
 
-> 🎧 **To enable:** Deploy [novatorem](https://github.com/novatorem/novatorem) on Vercel and link your Spotify account.
+> 🎧 **Enable karne ke liye:** [novatorem](https://github.com/novatorem/novatorem) ko Vercel pe deploy karo + Spotify account link karo
 
 </div>
 
@@ -163,10 +187,10 @@ me = AnkitMaurya()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankit9322.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitmaurya4681)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techlover._.ig)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parnika-sa)
 
 </div>
 
@@ -174,8 +198,8 @@ me = AnkitMaurya()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-*⭐ If you find my work interesting, drop a star! It motivates me to keep building.*
+*⭐ If you find my work interesting, drop a star on any repo — it keeps me going!*
 
 </div>
